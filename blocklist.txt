@@ -4,10 +4,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 22 March 2026 17:14:07 (UTC)
+# Date: 23 March 2026 17:14:07 (UTC)
 # Number of unique domains: 1
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/RyGuy1371/Pihole-block-list
 #
 # ===============================================================
